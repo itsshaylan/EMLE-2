@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'PlantinMTProRg';
+  src: url('/path-to/PlantinMTProRg.woff2') format('woff2'),
+       url('/path-to/PlantinMTProRg.woff') format('woff'),
+       url('/path-to/PlantinMTProRg.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'PlantinMTProRg', sans-serif;
+}

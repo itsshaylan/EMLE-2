@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'GT-Pressura-Mono-Light';
+  src: url('/path-to/GT-Pressura-Mono-Light.woff2') format('woff2'),
+       url('/path-to/GT-Pressura-Mono-Light.woff') format('woff'),
+       url('/path-to/GT-Pressura-Mono-Light.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'GT-Pressura-Mono-Light', sans-serif;
+}
